@@ -1,3 +1,14 @@
+<!--Header-->
+### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sathya Here 👨‍🎓
+  <div>
+  <br>
+  <img align="left" alt="GIF" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/1.gif" width="1000" height="450"/>
+  </br>
+  
+  .
+  
+  </div>
+  
 <h1 align="center">Hi 👋, I'm Sathya Narayana</h1>
 <h3 align="center">Aspiring Tech Enthusiast from India</h3>
 
