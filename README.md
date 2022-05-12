@@ -69,6 +69,25 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&" alt="sathya-narayana" /></p>
 
 
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919739724705) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+
+
+<div align="center">
+<a href="https://github.com/sathya-narayana" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sathyakofficials/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sathyanarayana-k/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/s_a_t_h_y_a.k/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://camo.githubusercontent.com/4f16575f18ab33c36b17b95c7fb275c96a57a7d9955a82001190bc32f6b0df2a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361746879612d6e61726179616e61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" />
