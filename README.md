@@ -1,17 +1,12 @@
 <!--Header-->
 ### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sathya Here 👨‍🎓
-  <div>
-  <br>
-  <img align="left" alt="GIF" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif" width="1970" height="590"/>
-  </br>
-  <p align="center">
-  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
-</p>
-  .
+ <div>
+   <p align="center">
+      <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
+   </p>
+</div>
   
-  </div>
-  
-  ## Technical Skills 🛠 
+## Technical Skills 🛠 
 
 <img align='left' src='https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/5.gif' width='250"'>
 
@@ -42,8 +37,8 @@
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
-<a href="https://dev.to/amit17133129">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
+<a href="https://dev.to/sathyanarayana">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sathyanarayana's DEV Profile" height="30" width="30">
 </a>
   
 <p align="center">
