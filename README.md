@@ -9,6 +9,19 @@
   
   </div>
   
+</br>
+
+
+<!--About Me-->
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://avatars1.githubusercontent.com/u/55508548?s=460&u=5b041974d3feb19088000e9444eb105d62412b2e&v=4"> 
+</p>
+  
+
+
+## About Me ✍
+  
 <h1 align="center">Hi 👋, I'm Sathya Narayana</h1>
 <h3 align="center">Aspiring Tech Enthusiast from India</h3>
 
