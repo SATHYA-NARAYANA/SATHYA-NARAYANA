@@ -15,7 +15,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://avatars1.githubusercontent.com/u/55508548?s=460&u=5b041974d3feb19088000e9444eb105d62412b2e&v=4"> 
+  <img width="240" height="230" align='right' src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif"> 
 </p>
   
 
