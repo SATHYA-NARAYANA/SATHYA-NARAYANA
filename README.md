@@ -9,15 +9,12 @@
   
   </div>
   
-</br>
 
+<!--technical skill-->
 
-<!--About Me-->
-<div>
- <p>
-  <img width="240" height="230" align='right' src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif"> 
-</p>
-  
+## Technical Skills 🛠 
+
+<img align='left' src='https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif' width='250"'>
 
 
 ## About Me ✍
