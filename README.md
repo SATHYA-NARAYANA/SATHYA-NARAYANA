@@ -44,10 +44,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
 </a>
   
-
-<!--technical skill-->
-
-## Technical Skills 🛠 
+<p align="center">
+  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif?raw=true"/>
+</p>
 
 <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif" width="1970" height="590"/>
 
