@@ -44,7 +44,7 @@
 </a>
   
 <p align="center">
-  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/Skills.gif?raw=true"/>
+  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/updatingskills.gif?raw=true"/>
 </p>
 
 ##
