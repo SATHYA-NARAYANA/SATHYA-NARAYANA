@@ -4,7 +4,9 @@
   <br>
   <img align="left" alt="GIF" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif" width="1970" height="590"/>
   </br>
-  
+  <p align="center">
+  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
+</p>
   .
   
   </div>
