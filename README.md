@@ -14,7 +14,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif' width="1970" height="590"'>
+<img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif" width="1970" height="590"/>
 
 
 ## About Me ✍
