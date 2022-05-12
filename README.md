@@ -8,7 +8,7 @@
 
 ## About Me ✍
  
- I m <b> Sathya Narayana </b>, a enthusiastic <b>Master of Computer Science student</b> , a passionate self-taught devops engineer and various tech enthusiastic such as <b> Cloud, DevOps, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> Sathya Narayana </b>, a enthusiastic <b>Master of Computer Science student</b> , a passionate self-taught devops engineer and various tech enthusiastic such as <b> Cloud, DevOps, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
   
 ## Technical Skills 🛠 
