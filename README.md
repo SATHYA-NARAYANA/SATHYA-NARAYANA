@@ -42,8 +42,7 @@
   <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif?raw=true"/>
 </p>
 
-<img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/myskills.gif" width="1970" height="590"/>
-
+ 
 
 ## About Me ✍
   
@@ -68,4 +67,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathya-narayana&show_icons=true&locale=en" alt="sathya-narayana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&" alt="sathya-narayana" /></p>
+
+
+<p align="center"> 
+ <b> Can you break this count?</b><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+</p>
+
+   
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
+<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
+
 
