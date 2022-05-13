@@ -1,5 +1,5 @@
 <!--Header-->
-## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sathya Here 👨‍🎓
+## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/Hi.gif" width="29px"> Sathya Here 👨‍🎓
  <div>
    <p align="center">
       <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
