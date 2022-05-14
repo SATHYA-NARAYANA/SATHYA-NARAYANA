@@ -68,8 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&" alt="sathya-narayana" />
 </p>
 
-   
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/marquee.svg" />
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/marquee.svg" />
 
 
 
