@@ -42,7 +42,7 @@
 </a>
   
 <p align="center">
-  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/updatingskills.gif?raw=true"/>
+  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/updatingskills2022.gif?raw=true"/>
 </p>
 
 ##
