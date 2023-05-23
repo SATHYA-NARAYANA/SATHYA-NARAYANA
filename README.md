@@ -6,9 +6,21 @@
    </p>
 </div>
 
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathya-narayana&label=Profile%20views&color=0e75b6&style=flat" alt="sathya-narayana" /> </p>
+ -->
+<h1 align="center">Hi , I'm Sathya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center" >
+  <samp>
+    Hey, My name is <em>Sathya Narayana</em> and a passionate self-taught devops engineer and various technologies such as <b> Cloud, DevOps ⚙️, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields.I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.
+  </samp>
+  <br/>
+</p>
 ## About Me ✍
  
- I'm <b> Sathya Narayana </b>, a tech enthusiast <b>Master of Computer Science Student</b> , a passionate self-taught devops engineer and various technologies such as <b> Cloud, DevOps, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> Sathya Narayana </b>, a tech enthusiast <b>Master of Computer Science Student</b> , a passionate self-taught devops engineer and various technologies such as <b> Cloud, DevOps ⚙️, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields.I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery. 
  
 <p align="center"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&theme=algolia" alt="sathya-narayana" />
