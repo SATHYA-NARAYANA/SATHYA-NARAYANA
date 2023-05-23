@@ -68,12 +68,16 @@
  <p align="center"> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&theme=algolia" alt="sathya-narayana" />
 </p>
-
+ 
+ ### Show some ❤️ by starring some of the repositories!
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/marquee.svg" />
 
 
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+ 
+ #### visitors Count :heart:
+![VisitorCount](https://profile-counter.glitch.me/sathya-narayana/count.svg)
 
 
 
