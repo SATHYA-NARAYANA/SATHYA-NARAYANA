@@ -9,6 +9,10 @@
 ## About Me ✍
  
  I'm <b> Sathya Narayana </b>, a tech enthusiast <b>Master of Computer Science Student</b> , a passionate self-taught devops engineer and various technologies such as <b> Cloud, DevOps, MlOps, Quantum, Data Science, AI </b> from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ 
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&theme=algolia" alt="sathya-narayana" />
+</p>
 
   
 ## Technical Skills 🛠 
