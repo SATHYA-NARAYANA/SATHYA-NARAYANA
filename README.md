@@ -65,10 +65,6 @@
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&" alt="sathya-narayana" />
-</p>
- 
- 
  <p align="center"> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&theme=algolia" alt="sathya-narayana" />
 </p>
