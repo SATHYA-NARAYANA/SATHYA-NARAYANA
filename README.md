@@ -17,15 +17,6 @@ My journey in technology is driven by the art of turning ideas into reality thro
 #### Learning and Innovating
 
 The heart of my passion lies in understanding the core concepts behind various technological fields. I am committed to expanding my skills by staying current with the latest DevOps tools and methodologies. I'm a passionate explorer eager to dive deep into the worlds of DevOps and Cloud Computing, driven by a strong desire to learn and equipped with the energy to take decisive action.
-
-### Let's Connect!
-
-Join me on this exciting journey of discovery and innovation. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link) and let's explore the tech world together! 🚀
-
-Best regards,
-Sathya Narayana
-
-
   
 ## Technical Skills 🛠 
 
