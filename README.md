@@ -1,6 +1,6 @@
 <!--Header-->
 <!--introduction-->
-## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}!! I am Sathya👨‍🎓
+## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}!! I am [Sathya👨‍🎓](https://www.linkedin.com/in/sathyanarayana-k/))
  <div>
    <p align="center">
       <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
