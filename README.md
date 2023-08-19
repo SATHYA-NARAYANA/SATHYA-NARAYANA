@@ -23,7 +23,7 @@ The heart of my passion lies in understanding the core concepts behind various t
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/sathya-narayana/sathya-narayana/blob/main/assets/7.gif' width="240" height="230" >
+<img align='left' src='https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/assets/7.gif' width="240" height="230" >
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies.
 
