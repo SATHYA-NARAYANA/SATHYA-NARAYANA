@@ -6,15 +6,15 @@
    </p>
 </div>
 
-## About Me ✍
+## Little bit about me ✍
 
-A passionate self-taught DevOps engineer and technology enthusiast from India. I thrive on exploring a range of cutting-edge technologies including Cloud ☁️, DevOps ⚙️, MlOps, Quantum Computing, Data Science, and AI.
+A passionate self-taught DevOps engineer and technology enthusiast from India. I thrive on exploring a range of cutting-edge technologies including Cloud ☁️, DevOps ⚙️, MLOps, Quantum Computing, Data Science, and AI.
 
-### Bringing Ideas to Life
+#### Bringing Ideas to Life
 
 My journey in technology is driven by the art of turning ideas into reality through elegant interfaces. With a keen eye for detail, I ensure that the experience, architecture, and code quality of my creations are of the highest standards.
 
-### Learning and Innovating
+#### Learning and Innovating
 
 The heart of my passion lies in understanding the core concepts behind various technological fields. I am committed to expanding my skills by staying current with the latest DevOps tools and methodologies. I'm a passionate explorer eager to dive deep into the worlds of DevOps and Cloud Computing, driven by a strong desire to learn and equipped with the energy to take decisive action.
 
@@ -94,6 +94,9 @@ Sathya Narayana
  
  #### visitors Count :heart:
 ![VisitorCount](https://profile-counter.glitch.me/sathya-narayana/count.svg)
+
+
+
 
 
 
