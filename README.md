@@ -1,4 +1,5 @@
 <!--Header-->
+<!--introduction-->
 ## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}!! I am Sathya👨‍🎓
  <div>
    <p align="center">
@@ -6,9 +7,11 @@
    </p>
 </div>
 
-## Little bit about me ✍
+<!--about me-->
 
-A passionate self-taught DevOps engineer and technology enthusiast from India. I thrive on exploring a range of cutting-edge technologies including Cloud ☁️, DevOps ⚙️, MLOps, Quantum Computing, Data Science, and AI.
+### <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/Developer.gif" width="45"/> Little Bit About Me :
+
+A passionate self-taught DevOps engineer and technology enthusiast from India. I thrive on exploring a range of cutting-edge technologies including Cloud Computing, DevOps, MLOps, Quantum Computing, Data Science, AI, ML.
 
 #### Bringing Ideas to Life
 
