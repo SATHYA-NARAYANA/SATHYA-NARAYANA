@@ -58,7 +58,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
   
 <p align="center">
-  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/updatingskills2022.gif?raw=true"/>
+  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/Technical_Skills_Updated.gif?raw=true"/>
 </p>
 
 ##
